@@ -1,0 +1,9 @@
+[submodule "GazeML-RTGazeEstimation"]
+	path = GazeML-RTGazeEstimation
+	url = https://github.com/yijisuk/GazeML-RTGazeEstimation.git
+[submodule "GazeML-PyTorchTrain"]
+	path = GazeML-PyTorchTrain
+	url = https://github.com/yijisuk/GazeML-PyTorchTrain.git
+[submodule "GazeML-PyTorchEval"]
+	path = GazeML-PyTorchEval
+	url = https://github.com/yijisuk/GazeML-PyTorchEval.git
